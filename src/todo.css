@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    margin: 0 auto;
+    text-align: center;
+    padding: 2rem;
+    background-color: #a004fa;
+    min-height: 100vh;
+    
+}
+h1{
+    padding-bottom: 1rem;
+    color: #F1AE00;
+}
+
+button{
+    margin: 1rem 1rem;
+    padding: 0.3rem; 
+    background-color: #9613AD;
+    color: #F1AE00;
+    border-radius: 0.5rem;
+}
+
+h3{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    color: #F1AE00;
+}
+ul li{
+    list-style: none;
+}
+
+input[type="text"]{
+    padding: 0.2rem;
+    border-radius: 0.5rem;
+    /* border-bottom-color:black ; */
+}
